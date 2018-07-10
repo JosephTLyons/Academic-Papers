@@ -1,0 +1,302 @@
+Joseph Lyons Professor [Name Withheld]                	 ENG-W 131 18 December
+2015
+
+## **More Than Metal: A Brotherhood of Acceptance**
+
+From the instant an infant is brought into existence and awareness, leaving the
+solitude of the womb and entering into the world of others, he or she will
+undoubtedly be pampered and nurtured by a loving mother and father.  Due to the
+highly concentrated forms of affection we receive during this time, innately, we
+begin to lust for interpersonal interaction, as it is repeatedly pressed and
+programmed into our subconscious.  As we begin to age from infants to toddlers
+to youths, we start to seek out ways that allow us to satiate this need for
+interaction, often in the form of joining into communities, as we leave the
+grips of our loved ones and venture out into the world (Baumeister 499).  For a
+vast majority of individuals, access into any number of typical communities
+might be fairly simple and painless, as often they are born into them.  The
+child born of Christian parents is likely to be permitted entrance into the
+Christian community.  He or she is introduced into the community at an early
+age, is accepted by its members, and begins to establish a sense of worth based
+on the collective and defining global characteristics the group imparts on its
+attendees.  The same applies to the child born of an automobile mechanic; he or
+she is able to easily assimilate into the community of automobile enthusiasts,
+as they were brought into the community immediately after their birth.  What
+becomes of those who are not granted entrance into such typical communities?
+What becomes of the outcasts who do not meet the specifications required to join
+into a quintessential community?  They will undoubtedly seek out uncommon
+communities that lie outside the classifications of “typical” and “normal,” such
+as the extreme metal music community, that reflect their personal moral codes
+and also further their own self-validation, in order to satiate this lust for
+interaction.  In “Community, Commitment, and Individuality,” Robert Bellah et
+al. labels the language that one uses to describe the role of existing in
+communities of shared virtues and morals in order to define one’s own existence
+as the “second language of individualism,” which is also referred to as
+community-based individualism.  Bellah defines one of the characteristics of the
+second language as “[a] sense of self [that] is rooted in virtues that define a
+worthwhile life [which] have been passed on and modeled by others who have
+shared traditions” (71).  Bellah states that using the second language involves
+individuals who belong to a community that all collectively possess the same
+ideals and follow the same traditions.  In a deeper sense, those who engage in
+the second language are individuals in a community who have a deep respect of
+philanthropy, who have a heavy concern for egalitarianism, and want to focus
+their efforts around the centralized theme of humanitarianism.  They merely wish
+to promote the group’s well-being, which in turn helps to promote their own
+sense of self-worth and define who they are.  The second language of
+individualism is not only highly prevalent in most typical communities, but it
+is also clearly abundant in atypical groups, such as the community of fans of
+extreme metal music.  Humans innately yearn for interpersonal interaction in
+order to validate their own sense of worth as individuals.  However, not all
+individuals are granted, or even permitted, entrance into typical societal
+communities that most others enter easily, as often they are ostracized, cast
+out, or even exiled from them entirely.  Subsequently, individuals will often
+traverse great lengths in order to join uncommon communities based on similar
+interests, in order to utilize the second language of individualism and obtain
+this fundamental interaction that is vital and essential to human existence.
+
+In order to understand why individuals find it necessary to travel such great
+lengths to join uncommon communities, such as the extreme metal music community,
+we must first understand the psychological desire for human interaction and how
+existing in a community of shared virtues can satiate that need.  As individuals
+begin to develop throughout their lives, they will begin to establish a sense of
+self-worth based on the collection of characteristics and attributes that the
+individual possesses.  A student who graduates from a prestigious Ivy League
+university with a perfect 4.0-grade point average is labeled as both extremely
+intelligent and diligent, which subsequently allows the individual to form a
+sense of self-worth, as he or she feels as if they have accomplished a grand
+task in life.  While having a firmly rooted sense of self-worth is vital in
+one’s life, the major issue with it is that it does not fulfill the vacancy that
+exists in the minds and hearts of those who wish to make deeper and more
+profound impacts outside the constructs of their personal life.  A sense of
+worth that is deeply rooted in community is needed.  The craving of human
+interaction merely helps to contribute to the motivation of joining a community
+to make an impact on society.  Dean Barnlund, social commentator and author of
+“Communication in a Global Village,” elaborates on the concept that humans have
+a basic need to engage in interpersonal interaction when he says “[i]t would
+seem that everywhere people would desire to break out of the boundaries of their
+own experiential worlds[, but t]heir ability to react sensitively to a wider
+range of events and people requires an overcoming of […] cultural parochialism”
+(60).  Barnlund states that individuals require more in life than what exists in
+the confines of their own minds.  He further adds that in order for people to
+effectively and appropriately interact with one another, they must allow
+themselves to accept change, to appreciate cultural difference, and to not be
+hindered by closed-mindedness.  Jennifer Cobb, another social commentator and
+author of “Cybergrace: the Search for God in the Digital World,” both furthers
+and adds to the idea that humans innately crave human interaction when she
+states “it can be argued that it is a fundamental human need to leave our daily
+reality and be transported to other states of consciousness […] These journeys
+are transformative in nature.  When we come back, we are changed” (161-162).
+While Barnlund states that he believes that all people innately lust for
+interaction, he omits the key component that Cobb identifies; humans crave
+interaction with others because the experience has a direct effect on their
+personal lives.  Individuals who participate in a community to promote finding a
+clean energy source do so because they care about the positive effect it will
+have on the earth, but also because the act of aiding transforms their
+perception of who they are, directly affecting their self-worth.  The lust for
+human interaction is instilled in us at the moment of birth, but the desire to
+increase the perception of our self-worth is born the moment our actions as
+independent individuals fail to provide us with an adequate sense of communal
+worth; joining into a community, typical or uncommon, becomes the key component
+in solving both of these mental dilemmas.
+
+As members of society near the precipice of adulthood, transcending the
+boundaries of childhood and emerging into the realm of independency, most have
+already previously entered into a specific community and have grown accustomed
+to the feeling of unity and oneness.  Yet, there exists those who never truly
+identify with or enter into any of the quintessential communities that others so
+easily permeate into.  Whether the isolated individuals possess morals that do
+not align with those of typical communities, causing them to be denied and
+ostracized from them entirely, or those group’s global beliefs severely turn the
+individual away from the idea of joining, in any case, the resulting path is a
+desolate one that leaves much to be desired. This extreme social isolation can
+often result in severe mental trauma in those who have been denied access into
+typical communities for a great portion of their lives.  Roy Baumeister, a
+professor of social psychology at Florida State University and author of “The
+Need to Belong: Desire for Interpersonal Attachments as a Fundamental Human
+Motivation,” labeled the innate social seeking property of humans as the
+“Belongingness Hypothesis” and described the negative affects that can result in
+the minds of those who do not satiate their desire to belong:
+
+> [T]he belongingness hypothesis [states] that human beings have a pervasive
+> drive to form and maintain at least a minimum quantity of lasting, positive,
+> and significant interpersonal relationships […] Deprivation of stable, good
+> relationships [in communities] has been linked to a large array of aversive
+> and pathological consequences.  People who lack belongingness suffer higher
+> levels of mental and physical illness and are relatively highly prone to a
+> broad range of behavioral problems, ranging from traffic accidents to
+> criminality to suicide. (Baumeister 497, 511)
+
+Baumeister illuminates all negative repercussions that can result from living a
+life filled entirely with isolation and void of belongingness.  Individuals who
+have been cast out of typical communities inevitably accumulate high degrees of
+psychological damage, which then manifests into a physical form of illness. This
+form of illness can be so detrimental that it can physically cause an individual
+to be sick, to misplace their concentration while traveling by automobile,
+resulting in accidents, to commit acts of crime, or even to contemplate
+committing suicide in order to relieve themselves of the mental anguish.  More
+often than not, those who are feeling the dizzying effects from the deprivation
+of belonging will subsequently gain the motivation to strive to find less strict
+communities that accept all individuals and are free of the prejudice and bias
+that existed in the typical ones who denied them.  One can easily infer that
+extreme and aggressive metal music can ultimately become an outlet for the
+pent-up anguish, sadness, and psychological frustration that accumulates in
+individuals over the years spent in isolation due to the feeling of societal
+betrayal; the metal community also offers them a sense of security by allowing
+them to exist alongside trusted members who vow to never cast judgment upon
+them.  In order to fully comprehend the degree of acceptance and the metal
+community offers those who have been denied a sense of belonging in the world,
+we must experience it through the eyes of an individual who underwent such
+isolation.  Nelson Varas Díaz, another social psychology professor at the
+University of Puerto Rico, an extreme metal enthusiast, and a metal activist,
+fully understands the path of social neglect that allowed him to find his way
+into the community of extreme metal fans, subsequently fulfilling his sense of
+belonging.  In an interview, Díaz elaborates on his personal entrance into the
+community when he states, “I think that, like most of the people I have met that
+enjoy metal music, social alienation was an important part of getting into this
+style of music.  I will be the first to recognize that as a young man I felt
+very much isolated from traditional institutions” (Stevens).  Díaz believes that
+his entrance into the metal community was directly correlated with both his
+“alienation” from normal social experiences in his childhood and with the lack
+of belongingness that ensued from leading an isolated life.  One can almost
+infer that he believes that fate united him with a community that would accept
+him for who he was, when all others stranded him in his own cell of solitude.
+Díaz further elaborates on how accepting the group was of him when he states,
+“[b]eing part of a metal community in Puerto Rico, in the late 80s and early 90s
+was exciting, and I felt that I could be myself there” (Stevens).  Díaz does not
+have to alter his self or image in order to fit in amongst his peers, as others
+might have had to do in more strict and traditional communities; he does not
+feel the need to cower behind the construction of a false facade.  Díaz’ case
+provides us the crucial evidence that properly illuminates the true dynamics of
+the metal community.   His case allows us to understand that the metal community
+does not actually cater to the stereotype that only “anti-mainstream,
+anger-filled youths” are allowed to join, but that the community actually has no
+constraints or restrictions on who is and who is not eligible.  Díaz’ case
+proves that even those with highly respectable and professional careers can find
+themselves at ease amongst the non-judgmental peers in the community.  The
+extreme metal community not only becomes a domain that fulfills the sense of
+belonging, but it becomes a domain of solace and mental relief for all of those
+who have ever struggled to fit in, watching helplessly as others seemingly
+obtain access into communities with ease, while traveling down an isolated path
+of solitude throughout their life.
+
+Due to their desire to utilize the second language of individualism, the union
+of members of the metal community often is the result of a much deeper passion
+to support philanthropic movements, or causes, that help other communities that
+are in need.  This is due to the high level of emotional connectivity the
+members have with one another; members of the metal community are united by a
+feeling of oneness.  To the individual who does not enjoy heavy metal or
+understand the true dynamics of the group, the community may seem like a clan of
+chaotic barbarians who exhibit no respect for one another, but this
+one-dimensionally skewed assumption could not be further from the truth.  The
+members of the metal community seem to exhibit all of the traits that make up
+what author Steven Rosell refers to as “social cohesion.”  Rosell, a social
+commentator and author of “Changing Maps: Governing in a World of Rapid Change,”
+defines social cohesion by the following traits: “[s]hared values […], reducing
+disparities in wealth […], facing shared challenges, and [being] members of the
+same community” (78).  The “shared values” characteristic in a cohesive
+community is quite obvious in that it refers to members all possessing similar
+virtues and outlooks on life.  “Reducing disparities in wealth” refers to
+members of a cohesive community financially helping one another in desperate
+times of need.  Those who have larger sums of financial assets choose to share
+them with those who have little.  Lastly, “facing shared challenges” is also
+quite obvious, as it refers to members of a cohesive community collectively
+sharing the burdens of difficult times and situations.  It also refers to
+members using other members of the community as a support system.  This social
+cohesion amongst members is easily observable when viewing the resulting actions
+committed by metal fans during the earthquakes of Nepal.  In early 2015, a
+series of massive earthquakes, occurring over a several month span, shook and
+devastated the small nation of Nepal, causing the death of thousands of its
+citizens.  Outside of the massive death toll, the destruction caused by the
+earthquakes left thousands of native residents homeless and severely injured,
+both mentally and physically.  Relief was heavily needed in order to mitigate
+the costs of funerals, repairs, and to aid in the temporary relocation of
+citizens left without homes; many world-wide non-profit charity organizations,
+such as the Red Cross and the Salvation Army, all offered their services.  While
+these large organizations were doing their part to help provide support in the
+wake of devastation, smaller uncommon communities were also doing their best to
+contribute.  A relief effort labeled “Metal for Nepal” was created by the
+Nepalese metal community to help during this difficult time.  The effort called
+upon all the metal bands of Nepal to put on large-scale shows in order to
+generate funds to donate.  Fans coming to the shows understood that their cover
+charges would be donated to the cause and members of bands playing understood
+that they would be essentially playing for free, willingly giving away their
+earnings for the betterment of the community.  For some bands, the decision to
+donate their earnings has been one that has taken no contemplation whatsoever,
+as some band’s members are directly related to victims of this disaster.  Metal
+for Nepal has been entirely successful, migrating out of Nepal and across the
+globe and into other countries, such as the United States, where bands are also
+donating their earnings.  Internet-based metal record labels are even promoting
+and selling compilation albums to further add to the benefit.  Kim Kelly,
+journalist and author of “Metal for Nepal: How the Heavy Metal Community is
+Lending a Helping Hand to Earthquake Survivors” further adds to the hospitality
+of this community when she states, “[t]he metal community supports its own;
+countless bands and fans have thrown benefit shows, auctions, and other
+charitable endeavors to help brothers or sisters in need, and that tight-knit
+tribal instinct is part of what makes metal so great” (Kelly).  It is from these
+actions that we can easily conclude that the members of the extreme metal
+community belong to a socially cohesive society.  The Nepalese metal bands all
+share the same passion to help the community in need, which aligns with the
+“shared values” characteristic of social cohesion.  The Nepalese bands are
+willing to relinquish and donate their concert earnings to victims in order to
+help pay for damages, which represents “reducing disparities in wealth,” as
+money flows from those who are financially stable, to those who are not.  The
+last vital characteristic of social cohesion is “facing shared challenges,”
+which is extremely prevalent in the Nepalese metal community’s actions.  Lastly,
+being part of a socially cohesive society allows the members of the metal
+community to utilize the second language of individualism.  Members participate
+in philanthropic acts of kindness not only to further benefit their surrounding
+communities, but because doing so gives them relief in the form of
+self-validation, as their selfless actions heighten their personal sense of
+self-worth.
+
+As humans increasingly become aware of the need to utilize in the second
+language of individualism, working with a desired community to further a
+specific philanthropic cause while simultaneously satiating the lust for social
+interaction, a much more obvious and distinct truth is  unveiled, hidden almost
+in plain sight: human sustainability and evolution is highly dependent on the
+inspiration we both receive and submit to those who surround us in our various
+communities.  Very rarely are we able to witness forward-thinking innovation,
+spurting forth from the minds of individuals who have forced themselves into
+social deprivation and solitude, as those who possess all the knowledge and
+experience required for such revolutionary tasks are extremely far from common.
+More often than not, we witness and experience the birth of life-changing events
+hailing from the collective conscious of unified people.   We attribute our
+success rates in the medical world to the highly passionate and dedicated
+researchers in medicinal development communities that find cures for our
+life-threatening ailments.  We attribute the ability to transport our minds to
+polar ends of the global village to the passionate developers of technology in
+the communities of computer specialists.  The betterment of mankind is not
+entirely feasible without the inspiration obtained from our surrounding peers in
+our specific communities.  We need others to “feed” off of, and more
+importantly, to push us past our self-constructed boundaries we feel are
+impossible to break.  In the grand scheme of life, we are ultimately drawn
+towards one another because our collective existence necessitates social
+collaboration in order to solve life’s greatest challenges and mysteries,
+without it, we run the ultimate risk of becoming obsolete in the unforgiving
+progression of time.
+
+## **Works Cited**
+
+Barnlund, Dean. “Communication in a Global Village.” Brunk et al. 47-61.
+
+Baumeister, Roy F., and Mark R. Leary. "The Need to Belong: Desire for
+Interpersonal Attachments as a Fundamental Human Motivation." *Psychological
+Bulletin* 117.3 (1995): 497. *Business Source Premier*. Web. 10 Dec. 2015.
+
+Bellah, Robert et al. “Community, Commitment, and Individuality.” Brunk et al.
+65-74.
+
+Brunk, Terence, et al., eds. *Literacies: Reading, Writing, Interpretation*. 2nd
+ed. New York: Norton, 2000. Print.
+
+Cobb, Jennifer. “Cybergrace: The Search for God in the Digital World.” Brunk et
+al. 155-166.
+
+Kelly, Kim. “Metal for Nepal: How the Heavy Metal Community is Lending a Helping
+Hand to Earthquake Survivors.” *Vice*. Vice, 16 June 2015. Web. 1 Dec 2015.
+
+Rosell, Steven A. *Changing Maps: Governing in a World of Rapid Change*. Ottawa:
+Carleton UP and Meridian International Institute and the Parliamentary Centre,
+1995. Print.
+
+Stevens, Brett. "Interview: Nelson Varas Díaz." *Death Metal Underground*.
+Deathmetal.org, 12 Oct. 2013. Web. 1 Dec. 2015.
