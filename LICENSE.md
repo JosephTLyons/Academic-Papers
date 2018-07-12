@@ -1,3 +1,3 @@
-These works are licensed by: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+As of 7/12/2018, these works are licensed under: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
