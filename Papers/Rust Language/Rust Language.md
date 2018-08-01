@@ -1,5 +1,5 @@
 Rust Programming Language
-Joseph Lyons
+<br> Joseph Lyons
 
 ## Introduction
 
