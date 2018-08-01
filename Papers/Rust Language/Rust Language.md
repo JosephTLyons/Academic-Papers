@@ -1,7 +1,7 @@
-                           Rust Programming Language
-                                  Joseph Lyons
+Rust Programming Language
+Joseph Lyons
 
-1. Introduction
+## Introduction
 
 When a developer wishes to start a new coding project, he or she usually has
 to make a choice between what language to choose from.  More often than not, the
@@ -17,7 +17,7 @@ that would bridge the best of both worlds:  it would be able to offer low-level
 language execution times, while not feeling like a low-level language, and would
 guarantee the generation of safe code.  It would feel modern and robust.
 
-2. History of Rust
+## History of Rust
 
 Rust is fairly new to the programming sphere, so its history is a rather
 brief one.  Initially developed to be a system’s language in 2006 by Graydon
@@ -44,7 +44,7 @@ to be used for parallel and concurrent programming without any risks.  It seems
 that it is safe to state that Rust is becoming a very useable language that can
 compete with any modern or classic language available.
 
-3. Classification Details
+## Classification Details
 
 Rust is a widely-available, open-source, free programming language.  It is
 entirely cross-compatible, compiling on all major platforms, including
@@ -62,7 +62,7 @@ working in Rust would be fairly similar to how one would work in C++, but it
 becomes obvious, as you actually use it, that it is vastly different in many
 ways.
 
-4. Using Rust
+## Using Rust
 
 One of the first noticeable aspects of Rust is that it attempts to structure its
 code in a more readable way than other languages.  Here is a recursive version
@@ -168,7 +168,7 @@ the most daring forms of sharing are guaranteed safe in Rust” (The Rust
 Programming Language).  These safety systems are just some of the many reasons
 programmers are choosing to use Rust as their primary language.
 
-5. My Experience with Rust and Conclusion
+## My Experience with Rust and Conclusion
 
 My personal experience with Rust consists of reading key chapters of the
 official Rust guide, transcribing a few key algorithms into Rust (including the
