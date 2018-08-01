@@ -174,7 +174,7 @@ Euclid GCD algorithm used earlier), and writing one small fully-functional ASCII
 art application that prints a clock to the terminal window, as seen in Figure 5.
 
 
-Figure 5, ASCII Art Clock
+                           Figure 5, ASCII Art Clock
 
     After having a few months to experiment with Rust, I can verify that it is
 an interesting language to use with a rather difficult learning curve.   I would
