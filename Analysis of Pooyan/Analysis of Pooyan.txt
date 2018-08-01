@@ -1,0 +1,151 @@
+Joseph Lyons
+Professor [Name Withheld]
+CSCI-C 490
+18 October 2017
+
+                               Analysis of Pooyan
+
+1. Game Facts and Storyline
+
+    The Japanese word “pooyan” roughly translates to “little piglets” in
+English.  Pooyan is a simple game, that was created in 1982 under Stern
+Electronics and licensed by Konami, that bases its narrative loosely around the
+characters in The Three Little Pigs.  It was originally designed to be an arcade
+game exclusively for Chuck E. Cheese locations, but later made its way into the
+consumer’s home via the Commodore 64.  The game’s main character is Mama Pig,
+who is valiantly trying to rescue her piglets from wolves that captured them. On
+her journey, Mama Pig encounters swarms of opposition, as packs of wolves
+attempt to keep her from rescuing her piglets.  Each round is a fight between
+her and a select amount of wolves; winning a round allows Mama Pig to progress
+to a more challenging battle (with an increase in the amount of wolves), with
+each win bringing her closer and closer to rescuing her family (Pooyan).
+Although there is a storyline dealing with Mama Pig trying to retrieve her
+piglets, the game is actually infinitely long; the player never actually sees
+the end of the game, they merely continuously fight off wolves and try to beat
+previous high scores.  After gameplay, we are left to make the assumption that
+she eventually finds her piglets and rescues them.
+
+2. Operational Rules and Gameplay
+
+    The game is fairly simple.  Mama bear sits in a basket that is hoisted
+vertically up and down by some other pigs, presumably other members of her
+family, or friends of hers that share the same interest in rescuing the piglets.
+She sits on the right side of the screen facing left towards a massive tree
+(figure 1).  The wolves attempt to attack Mama Pig in one of two fashions.  The
+first way they attempt to attack her is by using balloons to float down from the
+tree towards the ground, so that they can access the ladder that leads to her
+basket.  The other way in which they attempt to hurt her is by riding the
+balloons up to the top of the tree, where they attempt to push a boulder off a
+branch and onto her.  If either scenario is achieved, Mama will lose one of her
+three lives.  When it comes to weaponry, she is given a bow and infinitely many
+arrows.  She must shoot multiple arrows into each balloon that a wolf is holding
+on to, an action that subsequently causes them to fall to their death.  Each
+popped balloon and wolf death results in points, which is used to measure the
+player’s skillset, since the game is infinitely long.  At times, the wolves will
+attempt to hit you with apples.  If multiple apples successfully hit mama, she
+will fall out of the basket and lose a life, but even if they miss, they can
+still in interfere with your ability to shoot the wolves, as they absorb the
+impact of the arrow.  The difficulty lies in the fact that the wolves are moving
+up or down, and you, as the player, must attempt to predict where an arrow
+should be launched, and move mama there, an procedure that requires tuned motor
+responses.  To lessen the difficulty of the game, a player may also choose a
+more informal strategy of simply continuously shooting arrows and hoping for one
+to hit.  (Intermittently, a special type of projectile is presented to Mama Pig:
+a slab of meat.  Why the slab of meat was chosen as a special projectile by the
+developers seems to be unknown, but it presents some sort of comic relief for
+the player.  A slab-of-meat projectile harnesses the power to cut through the
+strings of multiple balloons, allowing for you to clear many enemies off of the
+battlefield with a single action.
+
+                       Figure 1: Pooyan gameplay (Pooyan)
+
+3. Technical Details and Design
+
+    The design of Pooyan is extremely simple, although one firmly believe that
+this is less of a design choice and more of a byproduct of the era in which it
+was developed in.  The game is entirely two-dimensional.  Each round uses the
+exact same scene: a blue backdrop, a large tree on the left, and a ladder
+leading up to the pigs hoisting Mama Pig on the right side of the screen.  It
+becomes obvious that most of what makes up the game is simply these decorative
+pieces. These pieces are not active during the game and no interaction occurs
+with them. The wolves may appear to be standing on top of the tree or appear to
+be climbing the ladder, but one believes that these are not interactions with
+these objects directly, but simply rules that govern how certain battlefield
+coordinates can be interacted with.  Only Mama, the pigs up top, the wolves, and
+the arrows seem to be active objects, or objects that are used in gameplay.  The
+game is based on both reactive and continuous animation.  Both Mama Pig’s
+vertical movements, and the movement from the pigs assisting her, are all based
+on the user’s input (reaction-based).  Even though the amount of wolf deaths
+needed to complete the current round increases, they still seem to spawn based
+off of the user and how many the user has slain.  Continuous animation occurs
+when the wolves ascend and descend on their own, without user input.  If the
+user stops playing entirely, the wolves will advance towards Mama Pig and hurt
+her.
+
+    It seems logical that Pooyan makes use of an implicit world type.  Although
+based entirely on speculation, it seems that the positions of the wolves on the
+battlefield are randomly selected, which would allow one to believe that
+collisions between the arrows and the balloons have to be tested, in an event
+loop, in order to continue with the “death procedure.”  As stated before,
+although the wolves appear to be standing on the ground or in the tree, they are
+simply given battlefield coordinates that they can move on, giving the
+appearance of interaction with the tree or ground.  In an implicit world type,
+the environment essentially has no knowledge of the objects in it; this best
+describes Pooyan, the environment is merely a decorative piece with game objects
+placed on in front of it.
+
+
+4. Symbolism and Deeper Meaning
+
+    The driving themes that the developers are pushing in this virtual tale are
+“love conquers all” and that family is one of the most important aspects of any
+person’s life.  As children, when we are read the story of The Three Little
+Pigs, we realize that in the world of fairy tales, the wolf is the pig’s most
+dangerous enemy, one that they must constantly evade (The Three Little Pigs).
+In Pooyan, the mother pig loses her three piglets and is now facing this enemy
+in order to save them.  Taking into considering the previous knowledge we
+possess from The Three Little Pigs, it is understood that she is deliberately
+choosing to fight her most heinous enemy and letting go of her personal fears.
+We engage in cognitive interaction throughout the gameplay as we become
+emotionally invested in helping this character find her children.  A second bit
+of symbolism can also be found when playing the game, which is the importance of
+working in a team, or “strength in numbers.”  We know that Mama Pig is able to
+fight the wolves because she is getting help from the other pigs who are raising
+and lowering her basket.  If she did not have their help, she would probably not
+be able to be on this journey.  As players of the game, we are to understand
+that there are times when we must accomplish tasks and goals with the help of
+others; not every task is realistically achievable alone.  Based on the
+symbolism embedded into Pooyan, it is evident that the game reinforces positive
+values for players of all ages.
+
+5. Conclusion
+
+    According to IGN, a good game has a storyline that is both enjoyable and
+cohesive with the gameplay and is able to immerse the player in the fantasy
+world it represents (Martin).  In one’s opinion, Pooyan seems to possess these
+characteristics.  When comparing it to other games that were massive commercial
+hits, such as Pacman, Pooyan had the upper hand in that its developers gave it a
+backstory that allowed its players to become emotionally connected to the main
+character and her quest.  This emotional connection lends us motivation to try
+to conquer our previous high scores, as we empathize with Mama Pig and her
+kidnapped piglets.  Having a deep character connection allows us to quickly find
+ourselves easily immersed into the game.  In the modern gaming world, Pooyan may
+be laughed at for its simplicity and lack of dynamic gameplay.  It also may have
+never been a commercial hit, selling underwhelmingly low amounts of units and
+not being ranked very highly, but one believes this can be attributed to its
+lack of marketing and exposure  (Pooyan).   At the time of its release, it
+represented a game that was consistently enjoyable for those who bridged out and
+attempted to play it.
+
+                                   References
+
+“Pooyan.” The International Arcade Museum,
+    www.arcade-museum.com/game_detail.php?game_id=9082. Accessed 28 Sept. 2017.
+
+Martin, Eriq. “What Makes the Perfect Video Game?” IGN, IGN, 26 Feb. 2014,
+    www.ign.com/articles/2014/02/26/what-makes-the-perfect-video-game. Accessed
+    12 Oct. 2017
+
+“The Three Little Pigs.” American Literature,
+    americanliterature.com/childrens-stories/the-three-little-pigs. Accessed 29
+    Sept. 2017.
