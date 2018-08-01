@@ -1,0 +1,198 @@
+                           Rust Programming Language
+                                  Joseph Lyons
+
+1. Introduction
+
+    When a developer wishes to start a new coding project, he or she usually has
+to make a choice between what language to choose from.  More often than not, the
+details of the project help to whittle down the language options for the
+developer, as the benefits of some languages make them more useable for specific
+tasks.  Certain languages are lower level and execute faster, making them great
+for processor-intensive applications.  These languages usually come with the
+cost of more user responsibility to maintain safe code.  Other languages tend to
+simplify the coding process through the use of abstraction and use garbage
+collection to keep code consistently safe.  The negative side of these languages
+is that they tend to execute more slowly.  Rust was introduced as a language
+that would bridge the best of both worlds:  it would be able to offer low-level
+language execution times, while not feeling like a low-level language, and would
+guarantee the generation of safe code.  It would feel modern and robust.
+
+2. History of Rust
+
+    Rust is fairly new to the programming sphere, so its history is a rather
+brief one.  Initially developed to be a system’s language in 2006 by Graydon
+Hoare, a Mozilla developer, Rust largely went unnoticed.  Around 2009, Rust was
+beginning to look promising enough that Mozilla took interest in it and began to
+sponsor it.  After some years of refinement, the first stable 1.0 release
+emerged publicly on May 15, 2015.  The main “selling points” were that it was
+extremely performant, like C++, but was also expressive and generated extremely
+safe code. Over the years, Rust code slowly started to trickle its way into
+Mozilla’s codebase and into the projects of everyday programmers (The Rust
+Programming Language).  In 2016, 2017, and 2018, Rust won Stack Overflow’s “most
+loved language” category on their developer surveys, an indicator that Rust has
+surpassed many other older languages in a very short amount of time (Stack
+Overflow Annual Developer Survey).
+
+    Today, Rust code powers Mozilla’s Servo, their “Parallel Browser Engine
+project,” which was recently implemented into the latest version of Firefox
+Quantum.  “Rustaceans,” or people who enjoy using Rust, tend to gravitate
+towards it because it offers zero-cost abstractions, guaranteed memory safety
+without the use of garbage collection (or the associated memory overhead with
+garbage collection), and threads without data races (The Rust Programming
+Language).  The main “hype” around Rust is that it is built from the ground up
+to be used for parallel and concurrent programming without any risks.  It seems
+that it is safe to state that Rust is becoming a very useable language that can
+compete with any modern or classic language available.
+
+3. Classification Details
+
+    Rust is a widely-available, open-source, free programming language.  It is
+entirely cross-compatible, compiling on all major platforms, including
+Macintosh, Windows, and Linux.  It was influenced mainly by C++, so many of its
+features are modeled directly after it, but not all of them.  Like C++, it is
+considered to be both functional and object-oriented; subsequently, it is
+usually classified as a “multi-paradigm” language.  Rust is strongly typed,
+making it impossible to change the data type of an object after it is declared.
+The scope of any variable or object is limited to that of a block of code, but
+variable shadowing is supported.  This means you can declare a variable with the
+same name as another variable as long as the two variables are in different
+levels of scope.  Variables can be passed via value or reference (The Rust
+Programming Language).  Judging by the details given above, it would seem that
+working in Rust would be fairly similar to how one would work in C++, but it
+becomes obvious, as you actually use it, that it is vastly different in many
+ways.
+
+4. Using Rust
+
+One of the first noticeable aspects of Rust is that it attempts to structure its
+code in a more readable way than other languages.  Here is a recursive version
+of Euclid’s greatest common divisor algorithm written in Rust:
+
+fn euclids_gcd (number1: i32, number2: i32) -> i32 {
+    let mut remainder = 1;
+    let mut dividend = number1;
+    let mut divisor = number2;
+
+    if number2 == 0 {
+        return number1;
+    }
+
+    while remainder != 0 {
+        remainder = dividend % divisor;
+        dividend = divisor;
+        divisor = remainder;
+    }
+
+    return dividend;
+}
+
+    Unlike a C++ method signature, it does not start off with the return type,
+it starts off with the keyword “fn,” which stands for “function.”  Next, we see
+the function name, followed by the formal parameter list.  Parameters and
+variables are named first, then are followed by a colon, then the type.  Next,
+we see an arrow and the function return type.  Lastly, we see the body of code.
+As stated earlier, Rust intends for code to be easy to read, so if we scan the
+method signature, it reads more like English: This is a function named
+“euclids_gcd” that takes parameters “number1” and “number2”, which are of type
+i32 (32 bit signed integer), and outputs an i32 type.
+
+    Within the body of code, we can see that it begins to really differ from
+C++. Variables are declared with the keyword “let” and require the keyword “mut”
+if the variable’s value will ever change after initialization.  The type can be
+explicitly stated or inferred via that data be assigned during initialization.
+Conditionals do not get wrapped in a set of parentheses.  The Rust manual states
+that Rustaceans should typically choose to use the Kernighan and Ritchie opening
+brace, which is an opening brace at the end of a line of code, over the Allman
+opening brace, which is an opening brace on a new line (The Rust Programming
+Language).  Interestingly enough, the keyword “return” is not even required as
+long as the last line of code in the method is an expression that returns
+something itself.
+
+    As stated previously, Rust’s main aim is to produce consistent and safe
+code, but there is a tradeoff to this: the compiler is extremely pedantic.  It
+tends to throw out more errors and warnings than most compilers of other
+languages do, making it a bit frustrating to work with.  If you declare a
+variable without using the keyword “mut” and later try to assign a new value to
+it, the compiler will throw an error, as seen in Figure 1.  Consequently, if a
+variable is declared as a “mut,” but never changes, the compiler will
+immediately recommend that you make it non-mutable, as seen in Figure 2.  The
+compiler will complain if you do not follow its preferred naming convection of
+snake_case, as shown in Figure 3.  If code is never used or executed, it will
+display an associated message for that as well, as seen in Figure 4.
+
+                              Figure 1, Mut Error
+
+                          Figure 2, unused_mut Warning
+
+                          Figure 3, snake_case Warning
+
+                          Figure 4, dead_code Warning
+
+    These are just a few examples of the many that illustrate just how pedantic
+the Rust compiler is.  Even for a seasoned programmer, learning Rust can be a
+bit of a challenge simply because the compiler is tough to work with.  It should
+be restated that it was specifically designed this way with good intentions in
+mind.  After fixing all errors, one should try their best to eliminate the
+remaining warnings, as it will lead to more consistent and safe code.
+
+    Rust, like other languages, ships with a standard library and can use
+external third-party libraries as well, only in Rust, these are referred to as
+“crates.” The main software that governs the compiler for Rust and handles all
+of the crates is called “Cargo.”  The standard library immediately gives the
+user access to the usual tools offered in most refined languages.  Primitive
+types such as integers, floats, characters, arrays, bools, tuples, function
+pointers, and more, are shipped directly with Rust.  You can easily extend
+functionality to your programs by using an external third-party crate.
+Currently, there are over 15,000 crates uploaded to the Rust Community’s Crate
+Registry website that greatly enhance the usability of Rust (The Rust Community
+Crate Registry).
+
+    As mentioned previously, Rust was built from the ground up with safety in
+mind.  The Rust language website states, “one of Rust’s key innovations is
+guaranteeing memory safety (no segfaults) without requiring garbage collection.”
+This is especially interesting because the process for checking for memory
+errors happens during compilation, instead of runtime, resulting in virtually no
+overhead.  This is very attractive for those who struggle with memory management
+in other languages.  Rust also guarantees safety for certain issues that arise
+in concurrent programming; the process that checks for this also occurs during
+compilation time.  The developers guarantee that if an application compiles, it
+will contain no data races, which has led to the phrase “fearless concurrency”
+to be used when writing such applications in Rust.  As stated in the concurrency
+section of the manual, “thread safety isn’t just documentation; it’s law.”
+Another interesting quote from the Rust manual, relating to concurrency, states,
+“[users] can … share stack frames between threads, and Rust will statically
+ensure that the frames remain active while others threads are using them.  Even
+the most daring forms of sharing are guaranteed safe in Rust” (The Rust
+Programming Language).  These safety systems are just some of the many reasons
+programmers are choosing to use Rust as their primary language.
+
+5. My Experience with Rust and Conclusion
+
+    My personal experience with Rust consists of reading key chapters of the
+official Rust guide, transcribing a few key algorithms into Rust (including the
+Euclid GCD algorithm used earlier), and writing one small fully-functional ASCII
+art application that prints a clock to the terminal window, as seen in Figure 5.
+
+
+Figure 5, ASCII Art Clock
+
+    After having a few months to experiment with Rust, I can verify that it is
+an interesting language to use with a rather difficult learning curve.   I would
+classify it as a poor candidate as a first language for beginning developers, as
+I ran into many syntax errors alone that took more time to understand and fix
+than expected.  On the other end of the spectrum, there certainly is a sense of
+security when an application finally compiles and runs as intended because you
+feel confident that the code is stable and has passed all the extreme
+compilation checks.  Many developers currently have never heard of Rust, but I
+believe this will change within the near future.  I believe Rust is teetering on
+the precipice of popularity; we will see Rust gain more traction in the
+developing world, as more and more third-party crates are built to address more
+areas within the various programming fields.
+
+                                   References
+
+Rust Community’s Crate Registry, The. https://crates.io. Accessed 15 Apr. 2018.
+
+Rust Programming Language, The. Mozilla, www.rust-lang.org/en-US/. Accessed 11
+    Apr. 2018. Stack Overflow Annual Developer Survey. Stack Overflow,
+    https://insights.stackoverflow.com/survey. Accessed 13 Apr. 2018.
