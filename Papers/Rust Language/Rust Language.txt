@@ -193,5 +193,7 @@ areas within the various programming fields.
 Rust Community’s Crate Registry, The. https://crates.io. Accessed 15 Apr. 2018.
 
 Rust Programming Language, The. Mozilla, www.rust-lang.org/en-US/. Accessed 11
-    Apr. 2018. Stack Overflow Annual Developer Survey. Stack Overflow,
+    Apr. 2018.
+    
+Stack Overflow Annual Developer Survey. Stack Overflow,
     https://insights.stackoverflow.com/survey. Accessed 13 Apr. 2018.
