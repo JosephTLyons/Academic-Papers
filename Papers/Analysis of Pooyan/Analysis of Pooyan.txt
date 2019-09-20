@@ -57,7 +57,7 @@ the player.  A slab-of-meat projectile harnesses the power to cut through the
 strings of multiple balloons, allowing for you to clear many enemies off of the
 battlefield with a single action.
 
-                       Figure 1: Pooyan gameplay (Pooyan)
+                       Figure 1: Pooyan Gameplay (Pooyan)
 
 3. Technical Details and Design
 
