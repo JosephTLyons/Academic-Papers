@@ -1,0 +1,202 @@
+   A Direct Comparison of Fermentation Rates of Glucose and Maltose by Yeast
+                           (Saccharomyces cerevisiae)
+
+                                  Joseph Lyons
+                                 March 20, 2019
+
+Abstract
+
+The fermentation process plays a vital role within anaerobic cellular
+respiration, a process that is used to generate Adenosine Triphosphate, or the
+primary energy source for cell processes, in the absence of oxygen.  Plant and
+fungi cells specifically undergo alcoholic fermentation, which produces carbon
+dioxide and ethanol as waste products.  The primary ingredient of cellular
+respiration is a monosaccharide of some sort, such as glucose.  The alcoholic
+fermentation process, and its associated waste products, are essential elements
+within the food and wine industry, as bakers and vintners (winemakers) heavily
+depend on them to create their products.  It is then in the best interest of
+these industries, and also the best interest of these cells, to find the
+saccharide that ferments the most.  We conducted an experiment that allowed us
+to directly test the fermentation rates of a monosaccharide, glucose, and a
+disaccharide, maltose, in order to see which would ferment more.  Both
+saccharides were subjected to the same amount of yeast suspension, Saccharomyces
+Cerevisiae, and to the same conditions of incubation.  The result was that
+glucose produced 14.6 mm of CO2 / hour, while maltose produced 3.9 mm CO2 /
+hour. 
+
+Introduction
+
+    Fermentation is a process that is coupled with another process, glycolysis,
+to bring the functionality of producing energy to cells in the absence of
+oxygen.  This oxygen-less production of energy is referred to as anaerobic
+respiration and takes on two forms: lactic fermentation and alcoholic
+fermentation.  Animal cells and bacteria undergo the anaerobic cell respiration
+that uses lactic fermentation while plants and some fungi undergo the anaerobic
+cell respiration that uses alcoholic fermentation; our focus will be on the
+latter of the two.  Both forms of anaerobic cell respiration rely on the same
+first step, glycolysis (Grens et al., 2008).
+
+    It is during glycolysis that the six-carbon monosaccharides are broken down
+into two three-carbon molecules called pyruvates, through the help of some
+worker Adenosine Triphosphate (ATP) molecules, which are consumed.  The breaking
+of the covalent bonds in the six-carbon monosaccharides ultimately generates
+energy that drives the creation of more ATP than was initially consumed and
+converts low-energy NAD+ molecules into higher-energy NADH molecules.  The
+creation of ATP is of extreme importance to any cell, as it is the primary
+energy fuel supply which aids in the powering of many underlying cell processes
+and chemical reactions needed to sustain life.  Glycolysis inputs and outputs
+are captured in the unbalanced equation below:
+
+          C6H12O6 + 2NAD+ + 2ATP → 2 Pyruvates (C3H4O3) + 2NADH + 4ATP
+                              (Grens et al., 2008)
+
+The alcoholic fermentation step involves converting these newly built NADH
+molecules back into their lower-energy NAD+ forms.  These resulting low-energy
+NAD+ molecules are fed back into the glycolysis step.  As the name suggests,
+alcohol (ethanol) is a product of the alcoholic fermentation process, along with
+CO2, and the aforementioned NAD+. The alcoholic fermentation inputs and outputs
+are captured in the unbalanced equation below:
+
+                 2 Pyruvate + 2NADH → 2 Ethanol + 2CO2 + 2NAD+
+                              (Grens et al., 2008)
+
+    In a symbiotic operation between humans and fungi, the alcoholic
+fermentation process can be used to facilitate the production of certain goods
+within the food and wine industry.  One of the main products of alcoholic
+fermentation, CO2, is used during the baking of bread.  Yeast, typically S.
+cerevisiae, is added into the bread dough prior to baking.  As the yeast
+ferments the starch (composed of glucose monomers) within the bread, the
+resulting CO2 escapes through the bread, causing it to rise and take form
+(Karki et al., 2017).  Winemakers also depend on the alcoholic fermentation of
+certain saccharides by specific yeasts in order to yield the ethanol that is
+present in alcoholic beverages (Okunowo et al., 2005).  It is in the best
+interest of each of these parties, the bakers, the winemakers, and even the
+yeast specimens, to find the most preferred saccharide of a particular yeast in
+order to obtain the largest yield possible of CO2, ethanol, and NAD+ (to be used
+to generate ATP in glycolysis).
+
+    The specific question we wish to answer is whether glucose (a
+monosaccharide) or maltose (a disaccharide) ferments by yeast more quickly.  We
+are utilizing the yeast specimen S. cerevisiae in our test, which undergoes
+anaerobic respiration in the absence of oxygen.  CO2 is one of the main waste
+products of the alcoholic fermentation process; as such, this gas can be used as
+a metric to allow us to compare the fermentation rates of each saccharide and
+conclude which one ferments faster by S. cerevisiae.  We hypothesize that S.
+cerevisiae will ferment maltose more quickly than glucose.  We predicted that if
+we used identical resources on each of the solutions and that if the only
+difference between each solution was whether one contained glucose or one
+contained maltose, that maltose would produce a more prodigious amount of CO2,
+indicating it was fermenting faster.
+
+Materials and Methods
+
+    Two solutions were prepared.  The first 25 mL test tube received 8 mL of
+yeast suspension and 8 mL of 10% glucose solution.  The second 25 mL test tube
+received 8mL of yeast suspension and 4 mL of 10% maltose solution.  The
+remaining space in both test tubes was then filled with distilled water.  Each
+test tube was covered by a larger test tube and carefully inverted as to trap
+the glucose and maltose solutions in the smaller inner test tubes.  Any gases
+which might have unintentionally been trapped in the test tubes were measured.
+Both solutions were placed in a 47°C water bath to incubate for a period of 1
+hour, 1 minute, and 30 seconds, in order to expedite the alcoholic fermentation
+process.  After the incubation period, both of the gas pockets for each test
+tube were again measured and the differences in the initial gas bubble and the
+gas bubble present after the incubation period were calculated.  These gas
+bubble values that were recorded are crucial, as the main products of the
+alcoholic fermentation process are ethanol and carbon dioxide.  The amount of
+carbon dioxide produced during the incubation period was then used to determine
+which solution fermented faster (Grens, et al., 2008).
+
+    In this experiment, the independent variables were the differing solutions
+in each test tube: the glucose solution and maltose solution.  The dependent
+variable was the amount of carbon dioxide produced during the alcoholic
+fermentation process.  The main controlled factor of the experiment was using
+one half of the amount of maltose solution (4 mL) as glucose solution (8 mL), to
+compensate for the fact glucose is a monosaccharide and maltose is a
+disaccharide.  Other controlled factors included using the same culture of yeast
+in each tube, using distilled water from the same bottle in both solutions,
+using the same volume of solution in each test tube during the fermentation
+process, and incubating both solutions at the same temperature for the same
+duration of time.
+
+Results
+
+	In the experiment testing whether glucose or maltose had greater CO2
+production rates when being fermented by yeast, it is evident that the CO2
+production rate of the glucose solution (14.6 mm CO2 / hour) was substantially
+higher than the CO2 production rate of the maltose solution (3.9 mm CO2 / hour),
+as presented in Figure 1.  The production rate of CO2 for the glucose solution
+was nearly four times greater than the production rate of CO2 for the maltose
+solution.
+
+Figure 1. A Direct Comparison of Fermentation Rates of Glucose and Maltose by
+Yeast.  Two solutions, glucose and maltose, were fermented by yeast, and the
+production rates of CO2 were calculated for each solution.
+
+Discussion
+
+	The results of this experiment did not reinforce our initial hypothesis;
+maltose did not ferment more quickly than glucose.  As stated previously,
+glucose created nearly four times the amount of CO2 as maltose did during the
+fermentation process, despite both solutions being subjected to the same amount
+of yeast suspension and the same incubation conditions.  The data reveals that
+there must exist other factors that are affecting the rate of fermentation of
+these two saccharides.
+
+	It is known that fermentation occurs within the cell, specifically, the
+cytoplasm.  In order to reach this region inside the cell, any saccharide must
+be transported across the cell membrane via a permease, or a helper transport
+protein that is embedded in the phospholipid bilayer; Mal61 is the permease
+associated with maltose transportation.  Strangely enough, Mal61 can begin to
+lose its transportation ability, as maltose effectively begins to corrupt it;
+this is known as the inactivation of Mal61 by maltose and results in a reduction
+of the cell’s maltose uptake rate (Rigamonte et al., 2011).  This fact alone
+helps to explain why maltose ferments slower than glucose, but another obstacle
+lies in the path to fermentation for disaccharides.  If a saccharide that is
+being transported across the cell membrane happens to be a disaccharide, it must
+be broken down into two separate monosaccharide molecules, through hydrolysis,
+directly after transport.  This indicates that a disaccharide requires more work
+after being transported, while monosaccharides are transported and then allowed
+to instantly begin the first step of anaerobic cellular respiration, glycolysis.
+In the case of maltose, the specific enzyme that is required for the hydrolysis
+reaction is maltase (Goffrini et al., 2002).  These two facts alone reveal why
+there is such a dramatic difference in the fermentation rates of these two
+solutions, as shown in Figure 1. It should be mentioned that it is possible that
+the design of our experiment was flawed, which could have had a definite impact
+on our final results.  The only questionable design choice in our experiment
+appears to be the choice we made to use a half as much of the maltose solution
+as the glucose solution.  When designing the experiment, we assumed that since a
+maltose molecule contains two glucose molecules, that in order to have a fair
+experiment, we would need to compensate by using half as much maltose.  Our
+understanding of this could be flawed in that maybe the 10% mixtures of each
+saccharide already accounted for this fact.  If that is the case, then we should
+have used 8 mL of solution for each test.  However, Figure 1 seems to show that
+even with equal portions, glucose might have still fermented at a faster rate
+than maltose, maybe only twice as quickly; this statement is made under the
+assumption that their fermentation rates are linearly related to the amount of
+saccharide solution used.  A separate test using equal portions of solutions may
+be justified.
+ 
+Literature Cited
+
+Goffrini, P. Ferrero, I. and Donnini, C. (2002) Respiration-dependent
+    utilization of sugars in yeasts: A determinant role for sugar transporters.
+    Journal of Bacteriology 184:427-432.
+
+Grens, A., McLister, J., Schnabel, A., Marr, D. (2008) Laboratory manual for
+    introduction to biological sciences L102: diversity, structure, and function
+    of cells, plants, and animals.  Department of Biological Science, Indiana
+    University South Bend, South Bend.
+
+Karki, T. Timilsina, P. Yadav A. Pandey, G. Joshi, Y. Bhujel, S. Adhikari, R.
+    and Neupane, K. (2017) Selection and characterization of potential baker’s
+    yeast from indigenous resources of Nepal. Biotechnology Research
+    International.
+
+Okunowo, W. Okotore, and R. Osuntoki, A. (2005) The alcoholic fermentation
+    efficiency of indigenous yeast strains on different origin on orange juice.
+    African Journal of Biotechnology 4:1290-1296.
+
+Rigamonte, T. Silveira, W. Fietto Luciano. Castro, I. Breunig, K. and Passos, F.
+    (2011) Restricted sugar update by sugar-induced internalization of the years
+    lactose/galactose permease Lac12. FEMS Yeast Research 11:243-251.
