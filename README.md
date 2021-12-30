@@ -10,7 +10,7 @@ All wrapping was done with [`autoflow`](https://atom.io/packages/autoflow) and
 all center aligning was done with
 [`text-align`](https://atom.io/packages/text-align).
 
-These papers have not been professionally edited, so mistakes are bound to
-exist.  If you find a mistake and would like to help, you may open a pull
-request (if you'd like credit) or simply email me at
-JosephTLyons(AT)gmail(DOT)com.
+Aside from small typographical fixes, the contents of these papers have not been
+updated since they were written; the papers may be out of date, may contain
+invalid information, or may not reflect my current opinions or skill sets.  Feel
+free to open a pull request if you spot any errors.
