@@ -41,9 +41,9 @@ three lives.  When it comes to weaponry, she is given a bow and infinitely many
 arrows.  She must shoot multiple arrows into each balloon that a wolf is holding
 on to, an action that subsequently causes them to fall to their death.  Each
 popped balloon and wolf death results in points, which is used to measure the
-player's skillset, since the game is infinitely long.  At times, the wolves will
-attempt to hit you with apples.  If multiple apples successfully hit mama, she
-will fall out of the basket and lose a life, but even if they miss, they can
+player's skill set, since the game is infinitely long.  At times, the wolves
+will attempt to hit you with apples.  If multiple apples successfully hit mama,
+she will fall out of the basket and lose a life, but even if they miss, they can
 still in interfere with your ability to shoot the wolves, as they absorb the
 impact of the arrow.  The difficulty lies in the fact that the wolves are moving
 up or down, and you, as the player, must attempt to predict where an arrow
