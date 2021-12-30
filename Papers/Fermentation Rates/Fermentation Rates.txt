@@ -150,7 +150,7 @@ protein that is embedded in the phospholipid bilayer; Mal61 is the permease
 associated with maltose transportation.  Strangely enough, Mal61 can begin to
 lose its transportation ability, as maltose effectively begins to corrupt it;
 this is known as the inactivation of Mal61 by maltose and results in a reduction
-of the cell’s maltose uptake rate (Rigamonte et al., 2011).  This fact alone
+of the cell's maltose uptake rate (Rigamonte et al., 2011).  This fact alone
 helps to explain why maltose ferments slower than glucose, but another obstacle
 lies in the path to fermentation for disaccharides.  If a saccharide that is
 being transported across the cell membrane happens to be a disaccharide, it must
@@ -189,7 +189,7 @@ Grens, A., McLister, J., Schnabel, A., Marr, D. (2008) Laboratory manual for
     University South Bend, South Bend.
 
 Karki, T. Timilsina, P. Yadav A. Pandey, G. Joshi, Y. Bhujel, S. Adhikari, R.
-    and Neupane, K. (2017) Selection and characterization of potential baker’s
+    and Neupane, K. (2017) Selection and characterization of potential baker's
     yeast from indigenous resources of Nepal. Biotechnology Research
     International.
 

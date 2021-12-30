@@ -20,26 +20,26 @@ guarantee the generation of safe code.  It would feel modern and robust.
 2. History of Rust
 
     Rust is fairly new to the programming sphere, so its history is a rather
-brief one.  Initially developed to be a system’s language in 2006 by Graydon
+brief one.  Initially developed to be a system's language in 2006 by Graydon
 Hoare, a Mozilla developer, Rust largely went unnoticed.  Around 2009, Rust was
 beginning to look promising enough that Mozilla took interest in it and began to
 sponsor it.  After some years of refinement, the first stable 1.0 release
-emerged publicly on May 15, 2015.  The main “selling points” were that it was
+emerged publicly on May 15, 2015.  The main "selling points" were that it was
 extremely performant, like C++, but was also expressive and generated extremely
 safe code. Over the years, Rust code slowly started to trickle its way into
-Mozilla’s codebase and into the projects of everyday programmers (The Rust
-Programming Language).  In 2016, 2017, and 2018, Rust won Stack Overflow’s “most
-loved language” category on their developer surveys, an indicator that Rust has
+Mozilla's codebase and into the projects of everyday programmers (The Rust
+Programming Language).  In 2016, 2017, and 2018, Rust won Stack Overflow's "most
+loved language" category on their developer surveys, an indicator that Rust has
 surpassed many other older languages in a very short amount of time (Stack
 Overflow Annual Developer Survey).
 
-    Today, Rust code powers Mozilla’s Servo, their “Parallel Browser Engine
-project,” which was recently implemented into the latest version of Firefox
-Quantum.  “Rustaceans,” or people who enjoy using Rust, tend to gravitate
+    Today, Rust code powers Mozilla's Servo, their "Parallel Browser Engine
+project," which was recently implemented into the latest version of Firefox
+Quantum.  "Rustaceans," or people who enjoy using Rust, tend to gravitate
 towards it because it offers zero-cost abstractions, guaranteed memory safety
 without the use of garbage collection (or the associated memory overhead with
 garbage collection), and threads without data races (The Rust Programming
-Language).  The main “hype” around Rust is that it is built from the ground up
+Language).  The main "hype" around Rust is that it is built from the ground up
 to be used for parallel and concurrent programming without any risks.  It seems
 that it is safe to state that Rust is becoming a very useable language that can
 compete with any modern or classic language available.
@@ -51,7 +51,7 @@ entirely cross-compatible, compiling on all major platforms, including
 Macintosh, Windows, and Linux.  It was influenced mainly by C++, so many of its
 features are modeled directly after it, but not all of them.  Like C++, it is
 considered to be both functional and object-oriented; subsequently, it is
-usually classified as a “multi-paradigm” language.  Rust is strongly typed,
+usually classified as a "multi-paradigm" language.  Rust is strongly typed,
 making it impossible to change the data type of an object after it is declared.
 The scope of any variable or object is limited to that of a block of code, but
 variable shadowing is supported.  This means you can declare a variable with the
@@ -66,7 +66,7 @@ ways.
 
 One of the first noticeable aspects of Rust is that it attempts to structure its
 code in a more readable way than other languages.  Here is a recursive version
-of Euclid’s greatest common divisor algorithm written in Rust:
+of Euclid's greatest common divisor algorithm written in Rust:
 
 fn euclids_gcd (number1: i32, number2: i32) -> i32 {
     let mut remainder = 1;
@@ -87,34 +87,34 @@ fn euclids_gcd (number1: i32, number2: i32) -> i32 {
 }
 
     Unlike a C++ method signature, it does not start off with the return type,
-it starts off with the keyword “fn,” which stands for “function.”  Next, we see
+it starts off with the keyword "fn," which stands for "function."  Next, we see
 the function name, followed by the formal parameter list.  Parameters and
 variables are named first, then are followed by a colon, then the type.  Next,
 we see an arrow and the function return type.  Lastly, we see the body of code.
 As stated earlier, Rust intends for code to be easy to read, so if we scan the
 method signature, it reads more like English: This is a function named
-“euclids_gcd” that takes parameters “number1” and “number2”, which are of type
+"euclids_gcd" that takes parameters "number1" and "number2", which are of type
 i32 (32 bit signed integer), and outputs an i32 type.
 
     Within the body of code, we can see that it begins to really differ from
-C++. Variables are declared with the keyword “let” and require the keyword “mut”
-if the variable’s value will ever change after initialization.  The type can be
+C++. Variables are declared with the keyword "let" and require the keyword "mut"
+if the variable's value will ever change after initialization.  The type can be
 explicitly stated or inferred via that data be assigned during initialization.
 Conditionals do not get wrapped in a set of parentheses.  The Rust manual states
 that Rustaceans should typically choose to use the Kernighan and Ritchie opening
 brace, which is an opening brace at the end of a line of code, over the Allman
 opening brace, which is an opening brace on a new line (The Rust Programming
-Language).  Interestingly enough, the keyword “return” is not even required as
+Language).  Interestingly enough, the keyword "return" is not even required as
 long as the last line of code in the method is an expression that returns
 something itself.
 
-    As stated previously, Rust’s main aim is to produce consistent and safe
+    As stated previously, Rust's main aim is to produce consistent and safe
 code, but there is a tradeoff to this: the compiler is extremely pedantic.  It
 tends to throw out more errors and warnings than most compilers of other
 languages do, making it a bit frustrating to work with.  If you declare a
-variable without using the keyword “mut” and later try to assign a new value to
+variable without using the keyword "mut" and later try to assign a new value to
 it, the compiler will throw an error, as seen in Figure 1.  Consequently, if a
-variable is declared as a “mut,” but never changes, the compiler will
+variable is declared as a "mut," but never changes, the compiler will
 immediately recommend that you make it non-mutable, as seen in Figure 2.  The
 compiler will complain if you do not follow its preferred naming convection of
 snake_case, as shown in Figure 3.  If code is never used or executed, it will
@@ -137,32 +137,32 @@ remaining warnings, as it will lead to more consistent and safe code.
 
     Rust, like other languages, ships with a standard library and can use
 external third-party libraries as well, only in Rust, these are referred to as
-“crates.” The main software that governs the compiler for Rust and handles all
-of the crates is called “Cargo.”  The standard library immediately gives the
+"crates." The main software that governs the compiler for Rust and handles all
+of the crates is called "Cargo."  The standard library immediately gives the
 user access to the usual tools offered in most refined languages.  Primitive
 types such as integers, floats, characters, arrays, bools, tuples, function
 pointers, and more, are shipped directly with Rust.  You can easily extend
 functionality to your programs by using an external third-party crate.
-Currently, there are over 15,000 crates uploaded to the Rust Community’s Crate
+Currently, there are over 15,000 crates uploaded to the Rust Community's Crate
 Registry website that greatly enhance the usability of Rust (The Rust Community
 Crate Registry).
 
     As mentioned previously, Rust was built from the ground up with safety in
-mind.  The Rust language website states, “one of Rust’s key innovations is
-guaranteeing memory safety (no segfaults) without requiring garbage collection.”
+mind.  The Rust language website states, "one of Rust's key innovations is
+guaranteeing memory safety (no segfaults) without requiring garbage collection."
 This is especially interesting because the process for checking for memory
 errors happens during compilation, instead of runtime, resulting in virtually no
 overhead.  This is very attractive for those who struggle with memory management
 in other languages.  Rust also guarantees safety for certain issues that arise
 in concurrent programming; the process that checks for this also occurs during
 compilation time.  The developers guarantee that if an application compiles, it
-will contain no data races, which has led to the phrase “fearless concurrency”
+will contain no data races, which has led to the phrase "fearless concurrency"
 to be used when writing such applications in Rust.  As stated in the concurrency
-section of the manual, “thread safety isn’t just documentation; it’s law.”
+section of the manual, "thread safety isn't just documentation; it's law."
 Another interesting quote from the Rust manual, relating to concurrency, states,
-“[users] can … share stack frames between threads, and Rust will statically
+"[users] can … share stack frames between threads, and Rust will statically
 ensure that the frames remain active while others threads are using them.  Even
-the most daring forms of sharing are guaranteed safe in Rust” (The Rust
+the most daring forms of sharing are guaranteed safe in Rust" (The Rust
 Programming Language).  These safety systems are just some of the many reasons
 programmers are choosing to use Rust as their primary language.
 
@@ -190,10 +190,10 @@ areas within the various programming fields.
 
                                    References
 
-Rust Community’s Crate Registry, The. https://crates.io. Accessed 15 Apr. 2018.
+Rust Community's Crate Registry, The. https://crates.io. Accessed 15 Apr. 2018.
 
 Rust Programming Language, The. Mozilla, www.rust-lang.org/en-US/. Accessed 11
     Apr. 2018.
-    
+
 Stack Overflow Annual Developer Survey. Stack Overflow,
     https://insights.stackoverflow.com/survey. Accessed 13 Apr. 2018.
